@@ -1,5 +1,5 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://puzl-ai-dev-datasets/object recoginition/datasets/dvc_test_dataset
+    url = s3://puzl-test-models/dvc
     region = us-west-2
