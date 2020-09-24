@@ -1,7 +1,0 @@
-md5: 9364ff61f113609c1c47573ae334b6d6
-outs:
-- md5: 0528fbd01b6ae6f1732eeaf390c302f9
-  path: t3.txt
-  cache: true
-  metric: false
-  persist: false
