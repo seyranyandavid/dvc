@@ -1,0 +1,7 @@
+md5: e50b49a10d49d74a8c15878cb6b6bb13
+outs:
+- md5: 68c098b90d9c510c7053a81a2aa7c988
+  path: t1.txt
+  cache: true
+  metric: false
+  persist: false
